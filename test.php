@@ -1,3 +1,3 @@
 <?php
-Hi This is for testing
+echo "Hi This is for testing"
 ?>
